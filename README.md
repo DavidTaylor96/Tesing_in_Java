@@ -2,7 +2,7 @@
 
 <h2>Create 3 single classes with methods to perform some functionality.</h2>
 
-<h2>This is a TDD exercise. Write the test first then create the method to get the test passing.</h2>
+<h3>This is a TDD exercise. Write the test first then create the method to get the test passing.</h3>
 
 <h2>MVP:</h2>
 Calculator
